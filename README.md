@@ -7,7 +7,7 @@
 
 - 💬 `ping` me about **Unity Engine** , **C#** , **Shaders** , **implementing art in games** , **Illustration**.
 
-- My **Tech Art** `portfolio`: https://www.artstation.com/wern7r
+- My **Tech Art** `portfolio`: wip
 
 
 
